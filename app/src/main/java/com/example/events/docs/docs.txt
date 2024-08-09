@@ -1,0 +1,5 @@
+Detects events, in this case when the user launches the app
+he/she is welcomed.
+
+This is a test app so have omitted saving the completed events
+and notifying that an event is complete.
